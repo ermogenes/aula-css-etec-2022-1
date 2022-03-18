@@ -1,0 +1,15 @@
+p {
+    color: red;
+    border: 2px solid blue;
+    background-color: white;
+}
+
+h1 {
+    color: green;
+    background-color: black;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(84, 84, 212);
+}
